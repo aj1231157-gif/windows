@@ -1,0 +1,50 @@
+{
+  "win11": {
+    "title": "Windows 11",
+    "items": [
+      { "name": "GGOS",            "size": "Custom Build", "type": "ISO", "url": "https://link-do-download.com/ggos.iso" },
+      { "name": "XLITE",           "size": "Custom Build", "type": "ISO", "url": "https://link-do-download.com/xlite.iso" },
+      { "name": "GLEISON LIMA",    "size": "Custom Build", "type": "ISO", "url": "https://link-do-download.com/gleison.iso" },
+      { "name": "X OS",            "size": "Custom Build", "type": "ISO", "url": "https://link-do-download.com/xos.iso" },
+      { "name": "KERNEL OS",       "size": "Custom Build", "type": "ISO", "url": "https://link-do-download.com/kernel.iso" },
+      { "name": "GHOST SPECTRE",   "size": "Custom Build", "type": "ISO", "url": "https://link-do-download.com/ghost.iso" },
+      { "name": "WINDOWS 11 LITE", "size": "Custom Build", "type": "ISO", "url": "https://link-do-download.com/lite.iso" },
+      { "name": "SNYX OS",         "size": "Custom Build", "type": "ISO", "url": "https://link-do-download.com/snyx.iso" },
+      { "name": "Tiny11",          "size": "Custom Build", "type": "ISO", "url": "https://link-do-download.com/tiny11.iso" },
+      { "name": "Nexus LiteOS",    "size": "Custom Build", "type": "ISO", "url": "https://link-do-download.com/nexus.iso" }
+    ]
+  },
+  "win10": {
+    "title": "Windows 10",
+    "items": [
+      { "name": "GGOS",            "size": "Custom Build", "type": "ISO", "url": "https://link-do-download.com/ggos10.iso" },
+      { "name": "XLITE",           "size": "Custom Build", "type": "ISO", "url": "https://link-do-download.com/xlite10.iso" },
+      { "name": "GLEISON LIMA",    "size": "Custom Build", "type": "ISO", "url": "https://link-do-download.com/gleison10.iso" },
+      { "name": "X OS",            "size": "Custom Build", "type": "ISO", "url": "https://link-do-download.com/xos10.iso" },
+      { "name": "KERNEL OS",       "size": "Custom Build", "type": "ISO", "url": "https://link-do-download.com/kernel10.iso" },
+      { "name": "GHOST SPECTRE",   "size": "Custom Build", "type": "ISO", "url": "https://link-do-download.com/ghost10.iso" },
+      { "name": "WINDOWS 10 LITE", "size": "Custom Build", "type": "ISO", "url": "https://link-do-download.com/lite10.iso" },
+      { "name": "SNYX OS",         "size": "Custom Build", "type": "ISO", "url": "https://link-do-download.com/snyx10.iso" },
+      { "name": "Tiny10",          "size": "Custom Build", "type": "ISO", "url": "https://link-do-download.com/tiny10.iso" },
+      { "name": "Nexus LiteOS",    "size": "Custom Build", "type": "ISO", "url": "https://link-do-download.com/nexus10.iso" }
+    ]
+  },
+  "linux": {
+    "title": "Linux",
+    "items": [
+      { "name": "Ubuntu 24.04 LTS",   "size": "5.8 GB", "type": "ISO", "url": "https://link-do-download.com/ubuntu.iso" },
+      { "name": "Fedora Workstation", "size": "2.1 GB", "type": "ISO", "url": "https://link-do-download.com/fedora.iso" },
+      { "name": "Arch Linux",         "size": "850 MB", "type": "ISO", "url": "https://link-do-download.com/arch.iso" },
+      { "name": "Ventoy (Multiboot)", "size": "18 MB",  "type": "ZIP", "url": "https://link-do-download.com/ventoy.zip" }
+    ]
+  },
+  "android": {
+    "title": "Android",
+    "items": [
+      { "name": "LineageOS (genérico)", "size": "1.2 GB", "type": "ZIP", "url": "https://link-do-download.com/lineage.zip" },
+      { "name": "Platform Tools (ADB)", "size": "12 MB",  "type": "ZIP", "url": "https://link-do-download.com/adb.zip" },
+      { "name": "TWRP Recovery",        "size": "45 MB",  "type": "IMG", "url": "https://link-do-download.com/twrp.img" },
+      { "name": "Magisk",               "size": "11 MB",  "type": "APK", "url": "https://link-do-download.com/magisk.apk" }
+    ]
+  }
+}
